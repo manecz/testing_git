@@ -1,1 +1,1 @@
-goodbye
+console.log('acme');
